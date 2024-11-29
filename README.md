@@ -38,4 +38,4 @@ My main computer hobby is making errors.
 → How can you fix an error when you don't have enough knowledge?
 
 Let's work together to push the boundaries of what's possible. By combining our
-skills and perspectives, we can create something amazing 🤝.
+skills and perspectives, we can create something amazing🤝.
