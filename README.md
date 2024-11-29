@@ -39,4 +39,3 @@ My main computer hobby is making errors.
 
 Let's work together to push the boundaries of what's possible. By combining our
 skills and perspectives, we can create something amazing 🤝.
-
