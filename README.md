@@ -1,17 +1,17 @@
-Aziz Azizi
----
+# Aziz Azizi
 
-📧[aziztablo.aa@gmail.com](mailto:aziztablo.aa@gmail.com)
+📧 [Personal Email](mailto:aziztablo.aa@gmail.com "Aziz Azizi")
 
 I'm interested to see how much I can expand my skills in programming languages.
 
-→ How can we find the sweet spot between creating, developing and making sure
+```question
+How can we find the sweet spot between creating, developing and making sure
 they're well-researched?
+```
 
-----
-
-Learner (newbie) 🔰
 ---
+
+## Learner(newbie) 🔰
 
 I am learning new languages to discover which ones will be useful and efficient
 for me. There are many resources available on the internet for learning,
@@ -20,13 +20,15 @@ trial and error is the best way to learn.
 I hope to be able to turn the ideas I have into reality with the
 programming language and become useful.
 
+``` question
 Do you know something that might be useful for me?
-Send me an email!
+```
 
-----
+[send me an Email](mailto:aziztablo.aa@gmail.com "Aziz Azizi")
 
-Hobbies 👨‍💻
 ---
+
+### Hobbies 👨‍💻
 
 Ever since I got my first computer at a young age, I became very interested in
 computers and I was always searching and messing around with hardware, files and
@@ -35,7 +37,15 @@ learn new things every day.
 I love trial and error to find the right way.
 
 My main computer hobby is making errors.
-→ How can you fix an error when you don't have enough knowledge?
+
+```question
+How can you fix an error when you don't have enough knowledge?
+```
 
 Let's work together to push the boundaries of what's possible. By combining our
 skills and perspectives, we can create something amazing🤝.
+
+---
+
+Here is some [cheat-sheet](https://github.com/Azizsin7/Cheat-Sheet.git)
+if you are a beginner like me.
