@@ -4,10 +4,8 @@
 
 I'm interested to see how much I can expand my skills in programming languages.
 
-```question
-How can we find the sweet spot between creating, developing and making sure
+> How can we find the sweet spot between creating, developing and making sure
 they're well-researched?
-```
 
 ---
 
@@ -20,9 +18,7 @@ trial and error is the best way to learn.
 I hope to be able to turn the ideas I have into reality with the
 programming language and become useful.
 
-``` question
-Do you know something that might be useful for me?
-```
+> Do you know something that might be useful for me?
 
 [send me an Email](mailto:aziztablo.aa@gmail.com "Aziz Azizi")
 
@@ -38,9 +34,7 @@ I love trial and error to find the right way.
 
 My main computer hobby is making errors.
 
-```question
-How can you fix an error when you don't have enough knowledge?
-```
+> How can you fix an error when you don't have enough knowledge?
 
 Let's work together to push the boundaries of what's possible. By combining our
 skills and perspectives, we can create something amazing🤝.
@@ -48,4 +42,4 @@ skills and perspectives, we can create something amazing🤝.
 ---
 
 Here is some [cheat-sheet](https://github.com/Azizsin7/Cheat-Sheet.git)
-if you are a beginner like me.
+for Markdown if you are a beginner like me.
