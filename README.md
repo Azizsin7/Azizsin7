@@ -41,8 +41,9 @@ skills and perspectives, we can create something amazing🤝.
 
 ---
 
-####### Here is some [cheat-sheet](https://github.com/Azizsin7/Cheat-Sheet.git)
+Here is some [cheat-sheet](https://github.com/Azizsin7/Cheat-Sheet.git)
 for Markdown if you are a beginner like me.
 
-######## Here you can find some [examples](https://github.com/Azizsin7/pytest.git) for pydoc,
-doctest and unittest.
+---
+Here you can find some [examples](https://github.com/Azizsin7/pytest.git) for 
+pydoc, doctest and unittest.
