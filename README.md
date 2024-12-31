@@ -2,6 +2,9 @@
 
 📧 [Personal Email](mailto:aziztablo.aa@gmail.com "Aziz Azizi")
 
+## Introduction
+
+You can call me Zizi.
 I'm interested to see how much I can expand my skills in programming languages.
 
 > How can we find the sweet spot between creating, developing and making sure
@@ -9,14 +12,14 @@ they're well-researched?
 
 ---
 
-## Learner(newbie) 🔰
+## Interests
 
-I am learning new languages to discover which ones will be useful and efficient
-for me. There are many resources available on the internet for learning,
-but none of them seem to be a good fit. I believe that learning through
+* Learning New Languages: Exploring different programming languages to find
+the most useful and efficient ones for my projects. I believe that learning through
 trial and error is the best way to learn.
-I hope to be able to turn the ideas I have into reality with the
-programming language and become useful.
+
+* Computers & Technology: Since getting my first computer, I've been fascinated
+with hardware, files, and operating systems which I was always tinkering with.
 
 > Do you know something that might be useful for me?
 
@@ -41,8 +44,10 @@ skills and perspectives, we can create something amazing🤝.
 
 ---
 
-- Here is some [cheat-sheet](https://github.com/Azizsin7/Cheat-Sheet.git)
+#### might be useful for you
+
+* Here is some [cheat-sheet](https://github.com/Azizsin7/Cheat-Sheet.git)
 for Markdown if you are a beginner like me.
 
-- Here you can find some [examples](https://github.com/Azizsin7/pytest.git) for
+* Here you can find some [examples](https://github.com/Azizsin7/pytest.git) for
 py doc, doc test and unittest.
