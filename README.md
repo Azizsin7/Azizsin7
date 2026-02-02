@@ -3,6 +3,7 @@
 ## Data Science Student | AI/ML Researcher
 
 [GitHub](https://github.com/Azizsin7)
+
 [Slack](https://mitemergingtalent.slack.com/team/U081W7CDXEU)
 
 ## About
@@ -115,13 +116,13 @@
 4. Generate actionable insights for developing more empathetic digital care tools
 
 **Collaborative Team:**
-[Aziz Azizi](https://github.com/Azizsin7)
-[Huda Alamassi](https://github.com/hudaalamassi)
-[Malak Battatt](https://github.com/malakbattat)
-[Sadam Husen Ali](https://github.com/Urz1)
-[Chrismy Augustin](https://github.com/likechrisss)
-[F. Ismail SAHIN](https://github.com/fevziismailsahin)
-[Ayham Hasan](https://github.com/ayhm01)
+[Aziz Azizi](https://github.com/Azizsin7),
+[Huda Alamassi](https://github.com/hudaalamassi),
+[Malak Battatt](https://github.com/malakbattat),
+[Sadam Husen Ali](https://github.com/Urz1),
+[Chrismy Augustin](https://github.com/likechrisss),
+[F. Ismail SAHIN](https://github.com/fevziismailsahin),
+[Ayham Hasan](https://github.com/ayhm01),
 
 **Technical Stack:**
 
